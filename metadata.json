@@ -1,0 +1,7 @@
+{
+  "name": "Saif Ul Islam - Professional AI Portfolio",
+  "description": "A high-performance, modern portfolio for Saif Ul Islam featuring a Gemini-powered AI assistant, dynamic project filtering, and smooth Framer Motion animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
