@@ -1,6 +1,6 @@
 # Saif Ul Islam | Webdeveloper & AI Engineer
 
-![Portfolio Hero Preview](./public/img/saif.png)
+![Portfolio Hero Preview](./public/img/github.png)
 
 A high-fidelity, performance-driven digital ecosystem engineered with the latest modern web standards. This portfolio serves as a technical benchmark for scalable, accessible, and intelligent web applications.
 
