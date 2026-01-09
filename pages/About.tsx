@@ -71,7 +71,7 @@ const About: React.FC = () => {
           <div className="relative aspect-[4/5] rounded-[4rem] overflow-hidden shadow-2xl transition-all duration-1000 border border-white/10 bg-slate-900">
             {/* Note: User image integrated here */}
             <img 
-              src="/img/saif.png" 
+              src="/img/saif.jpg" 
               alt="Saif Ul Islam Professional Portrait" 
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
               onError={(e) => {

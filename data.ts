@@ -15,8 +15,8 @@ export const PERSONAL_INFO = {
 
 //Performance Metrics Data IN HOME starting here
 export const PERFORMANCE_METRICS = [
-  { label: "Performance", score: 100, color: "#22c55e", detail: "Optimized TTI & LCP" },
-  { label: "Accessibility", score: 100, color: "#3b82f6", detail: "WCAG 2.1 Compliant" },
+  { label: "Performance", score: 93, color: "#22c55e", detail: "Optimized TTI & LCP" },
+  { label: "Accessibility", score: 93, color: "#3b82f6", detail: "WCAG 2.1 Compliant" },
   { label: "Best Practices", score: 100, color: "#a855f7", detail: "Modern Standards" },
   { label: "SEO", score: 100, color: "#f59e0b", detail: "Semantic Precision" }
 ];
@@ -96,9 +96,20 @@ export const EXPERIENCES: Experience[] = [
   },
   {
     id: "e2",
-    role: "Full Stack Freelancer",
-    company: "Upwork & Global Remote",
-    period: "2023 - 2024",
+    role: "Frontend developer",
+    company: "Fiver",
+    period: "2023 - 2025",
+    description: [
+      "Delivered 30+ custom solutions for international startups.",
+      "Maintained 100% job success score with repeat client business.",
+      "Specialized in performant e-commerce and SaaS dashboards."
+    ]
+  },
+  {
+    id: "e3",
+    role: "Frontend developer",
+    company: "Developer HUB Corporation",
+    period: "2023 - 2025",
     description: [
       "Delivered 30+ custom solutions for international startups.",
       "Maintained 100% job success score with repeat client business.",
