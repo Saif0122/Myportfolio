@@ -1,5 +1,6 @@
 import React, { useState, useEffect, Suspense, lazy } from 'react';
 import { HashRouter as Router, Routes, Route, useLocation, Link } from 'react-router-dom';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import Navbar from './components/Navbar';
 import ChatWidget from './components/ChatWidget';
 import Loader from './components/Loader';
@@ -66,6 +67,7 @@ const App: React.FC = () => {
         </main>
 
         <ChatWidget />
+        <SpeedInsights />
 
         <footer className="bg-slate-900 border-t border-slate-800 pt-20 pb-10" role="contentinfo">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
